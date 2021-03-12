@@ -1,5 +1,5 @@
 # incalss_graded_act
 
-![alternativetext](subfolder/sssss.png)
+![alternativetext](https://github.com/jaegeun1393/incalss_graded_act/blob/main/sssss.PNG)
 
 ![picture](https://github.com/jaegeun1393/incalss_graded_act/blob/main/sssss.PNG”)
