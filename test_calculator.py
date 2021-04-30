@@ -1,5 +1,5 @@
 """
-Unit testing the calculator app
+Unit testing the calculator apps
 """
 import calculator
 
